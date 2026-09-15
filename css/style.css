@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: light;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+p {
+    font-family: Courier;
+}
+
+ul{
+    list-style-type: disc;
+}
+
